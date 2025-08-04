@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+*.DS_Store
+
+# MLflow
+mlruns/
+
+# DVC
+*.dvc
+.cache/
+.dvc/tmp/
+.dvc/cache/
+
+# Data
+data/
+tourist_data.csv
+
+# Colab
+*.nbconvert.ipynb
+
+# VSCode
+.vscode/
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+

@@ -1,0 +1,11 @@
+stages:
+  train:
+    cmd: python train_script.py
+    deps:
+      - train_script.py
+      - tourist_data.csv
+    outs:
+      - random_forest_best.pkl
+    metrics:
+      - metrics.json:
+          cache: false
