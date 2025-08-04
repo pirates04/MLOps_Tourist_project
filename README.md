@@ -143,7 +143,7 @@ This project is open-source and available under the **MIT License**.
 ## ✍️ Author
 
 **Shikhar Bhargava**  
-GitHub: [shikharbhargava](https://github.com/shikharbhargava)  
-LinkedIn: *[Add your profile here]*
+GitHub: https://github.com/pirates04  
+
 
 ---
