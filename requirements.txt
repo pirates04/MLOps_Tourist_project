@@ -9,3 +9,8 @@ seaborn
 xgboost
 pyngrok
 joblib
+streamlit
+scikit-learn
+numpy
+pandas
+dvc[all]
